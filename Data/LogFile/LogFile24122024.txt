@@ -1,0 +1,5 @@
+﻿12/24/2024 21:05:58 Vendor Code DE325476 Transaction Success
+12/24/2024 21:06:32 Vendor Code FR065748 Transaction Success
+12/24/2024 21:06:58 Vendor Code IT145632 Transaction Success
+12/24/2024 21:07:59 Vendor Code RO094782 Transaction Success
+12/24/2024 21:08:23 Vendor Code RU567434 Transaction Success
